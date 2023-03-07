@@ -1,3 +1,3 @@
-#### IN ACTION
+#### Deploy link
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+https://farzankhan7850/github.io/react-js-06-tabs/
